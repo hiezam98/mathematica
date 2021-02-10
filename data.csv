@@ -1,3 +1,2 @@
-If[$UserName == "Hiezam" || 
-  "shdn", "Opacity", None, "Original Coding made by Hiezam"],
-Print["peepeepoopoo"]
+If[$UserName == "Hiezam" || "shdn", "Opacity", None, "Original Coding made by Hiezam"]
+Print["poopoo"]
