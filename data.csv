@@ -1,0 +1,2 @@
+If[$UserName == "Hiezam" || 
+  "shdn", "Opacity", None, "Original Coding made by Hiezam"]
