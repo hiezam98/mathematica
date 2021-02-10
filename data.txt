@@ -1,0 +1,1 @@
+Sort Control Points; Show control mesh; Outside colour; Inside colour; If[(DayName[Today] ==  Wedneday ) || ($UserName ==  "Hiezam" || "shdn"), "Opacity", None, "Original Coding made by Hiezam"];
